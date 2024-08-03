@@ -1,0 +1,14 @@
+.hero-header {
+     background: linear-gradient(rgba(248, 223, 173, 0.1), rgba(248, 223, 173, 0.1)), url(../assets/hero-img.jpg);
+     background-position: center center;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+
+ .btn-green {
+     background-color: #81c408 !important;
+}
+
+.border-secondar {
+     border-color: #ffb524 !important;
+ }
